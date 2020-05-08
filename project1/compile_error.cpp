@@ -6,13 +6,13 @@ using namespace std;   // pp. 38-39 in Savitch 6/e explains this line
 
 int main()
 {
-	int numSurveyed;
+	numSurveyed;
 	int numApprove;
 	int numDisapprove;
 
-	cout << "How many people were surveyed? ";
+	cout << "How many people were surveyed? "
 	cin >> numSurveyed;
-	cout << "How many of them approve of the way the president is handling his job? ";
+	cout << "How many of them approve of the way the pxresident is handling his job? ";
 	cin >> numApprove;
 	cout << "How many of them disapprove of the way the president is handling his job? ";
 	cin >> numDisapprove;
